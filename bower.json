@@ -7,7 +7,7 @@
     "David Tintner<davidt@similarweb.com>"
   ],
   "main": [
-    "*.scss",
+    "*.scss"
     ],
   "ignore": [
     "**/*.html",
