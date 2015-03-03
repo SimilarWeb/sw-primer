@@ -32,6 +32,6 @@
   ],
   "repository": {
     "type":"git",
-    "url": "git://github.com/SimilarWeb/StyleGuide.git"},
+    "url": "git://github.com/SimilarWeb/sw-primer.git"},
   "license": "MIT"
 }
