@@ -1,0 +1,37 @@
+{
+  "name": "sw-primer",
+  "version": "0.0.1",
+  "authors": [
+    "Oleg Glybchenko <olegg@similarweb.com>",
+    "Michal Sela <michalse@similarweb.com>",
+    "David Tintner<davidt@similarweb.com>"
+  ],
+  "main": [
+    "*.scss",
+    ],
+  "ignore": [
+    "**/*.html",
+    "**/*.jpg",
+    "**/*.jpeg",
+    "*.html",
+    "**/*.eot",
+    "**/*.svg",
+    "**/*.ttf",
+    "**/*.woff",
+    "node_modules"
+  ],
+  "description": "base components and css classes of similarweb packaged as a single entity",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "styleguide",
+    "css",
+    "scss",
+	"base"
+  ],
+  "repository": {
+    "type":"git",
+    "url": "git://github.com/SimilarWeb/StyleGuide.git"},
+  "license": "MIT"
+}
