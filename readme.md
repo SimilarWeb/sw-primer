@@ -4,7 +4,7 @@ Common components and classes for SimilarWeb
 Use connector file for convenient import of all the component scss files.
 
 ```shell
-@import "sw-styleguide/dev/connector";
+@import "sw-styleguide/connector";
 ```
 
 ## Package contents
