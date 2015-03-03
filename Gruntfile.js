@@ -47,5 +47,5 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks('grunt-shell');
 
   grunt.registerTask('default', ['auto_install']);
-  grunt.registerTask('push', ['gitadd', 'bump']);
+  grunt.registerTask('release', ['gitadd', 'bump']);
 };
