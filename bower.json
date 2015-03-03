@@ -1,6 +1,6 @@
 {
   "name": "sw-primer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "authors": [
     "Oleg Glybchenko <olegg@similarweb.com>",
     "Michal Sela <michalse@similarweb.com>",
@@ -32,6 +32,6 @@
   ],
   "repository": {
     "type":"git",
-    "url": "git://github.com/SimilarWeb/StyleGuide.git"},
+    "url": "git://github.com/SimilarWeb/sw-primer.git"},
   "license": "MIT"
 }
