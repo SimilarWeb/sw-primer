@@ -1,10 +1,10 @@
-# StyleGuide
-Common components and classes for SimilarWeb
+# Sw-primer
+SimilarWeb's base variables for colors, fonts and sizes and some silent and helper classes.
 
-Use connector file for convenient import of all the component scss files.
+Import primer.scss into your main scss file to use.
 
 ```shell
-@import "sw-primer/connector";
+@import "sw-primer/primer";
 ```
 
 ## Package contents
@@ -12,4 +12,4 @@ Use connector file for convenient import of all the component scss files.
 * **_colors.scss**  - includes main color palette constants and variables
 * **_fonts.scss**   - font family, text styles and sizes
 * **_reset.scss**   - resets the layout
-* **_base.scss**   - main variables for the site
+* **_base.scss**   - main variables and helper classes for the site
