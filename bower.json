@@ -28,10 +28,11 @@
     "styleguide",
     "css",
     "scss",
-	"base"
+    "base"
   ],
   "repository": {
     "type":"git",
-    "url": "git://github.com/SimilarWeb/sw-primer.git"},
+    "url": "git://github.com/SimilarWeb/sw-primer.git"
+  },
   "license": "MIT"
 }
