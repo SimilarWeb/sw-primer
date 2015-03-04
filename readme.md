@@ -1,4 +1,4 @@
-# Sw-primer
+# sw-primer
 SimilarWeb's base variables for colors, fonts and sizes and some silent and helper classes.
 
 Import primer.scss into your main scss file to use.
