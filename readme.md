@@ -17,4 +17,5 @@ Import primer.scss into your main scss file to use.
 * **_fonts.scss**   - font family, text styles and sizes
 * **_reset.scss**   - resets the layout
 * **_base.scss**   - main variables and helper classes for the site
-utility-belt
+* **utility-belt** - one-purpose utility classes 
+* **tooltips** - simple tooltip
