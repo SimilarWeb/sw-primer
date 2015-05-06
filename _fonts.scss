@@ -54,3 +54,4 @@ $baseFontSize: 12px;
 .u-bold { @include setFont($weight: bold); }
 .u-alignCenter { text-align: center; }
 .u-alignRight { text-align: right; }
+.u-alignLeft { text-align: left; }
